@@ -7,7 +7,7 @@
 ### 🎓 Sobre Mim
 - ✍️ Estudante de **Inteligência Artificial e Ciência de Dados** (3º Semestre).
 - 🛠️ Especialista em **Gestão de Tráfego Pago** (Meta Ads/Google Ads) e Automações.
-- 📍 Baseado em Uberlândia - MG.
+- 📍 Uberlândia - MG.
 
 ### 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** Python (Pandas, NumPy), SQL Server, Java.
