@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="Design sem nome(1).png" alt="Banner" width="100%">
+</p>
 
-<!--
-**junior57k/junior57k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Walteir Jr. | IA & Data Science 🚀
 
-Here are some ideas to get you started:
+### 🎓 Sobre Mim
+- ✍️ Estudante de **Inteligência Artificial e Ciência de Dados** (3º Semestre).
+- 🛠️ Especialista em **Gestão de Tráfego Pago** (Meta Ads/Google Ads) e Automações.
+- 📍 Baseado em Uberlândia - MG.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python (Pandas, NumPy), SQL Server, Java.
+- **Cloud & Infra:** AWS, Terraform.
+- **Marketing:** Automação de processos e análise de dados para tráfego pago.
+
+### 🌱 Atualmente focado em
+- Desenvolvimento de modelos de Machine Learning.
+- Automação de infraestrutura em nuvem.
+
+### 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/walteir-luiz-de-morais-junior-42a21928a/)
+- [Instagram](https://www.instagram.com/junior57k)
